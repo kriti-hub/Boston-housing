@@ -1,0 +1,2 @@
+# Boston-housing
+. Real estate listing prices are always unstable therefore there is the need of the system at can predict the pricing of a listing depending upon various factors such as 'per capita crime rate by town', 'proportion of residential land zoned for lots over 25,000 sq.ft.', etc. In this data analysis, we will create a linear regression model to predict the median price of the real estate based on various dependent variables.
